@@ -26,7 +26,7 @@ redirect_from:
 <div class="container">
   <div class="row mb-3" style="padding-bottom: 30px;">
 
-  <div class="col-12 pt-3  px-4 pb-4   bubble offset-xl-1 col-xl-10" >
+  <div class="col-12 pt-4  px-4 pb-4   bubble offset-xl-1 col-xl-10" >
 
   <!-- ####################### Publications ####################### -->
   <h2>Publications</h2>
