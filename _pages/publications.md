@@ -1,4 +1,8 @@
-
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 <br>
 <b>Cascaded Refinement Network for Point Cloud Completion</b> <br> 
 <b>Xiaogang Wang, Marcelo H Ang Jr and Gim Hee Lee.
