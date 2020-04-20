@@ -4,10 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>Cascaded Refinement Network for Point Cloud Completion</b> <br> 
-<b>Xiaogang Wang, Marcelo H Ang Jr and Gim Hee Lee.
+Cascaded Refinement Network for Point Cloud Completion <br> 
+<b>Xiaogang Wang</b>, Marcelo H Ang Jr and Gim Hee Lee. <b>CVPR 2020</b>.
 [[PDF]](https://arxiv.org/pdf/2004.03327v1.pdf) [[Code]](https://github.com/xiaogangw/cascaded-point-completion)
 
-<b>Generating Expensive Relationship Features from Cheap Objects</b> <br> 
-<b>Xiaogang Wang, Qianru Sun, Tat-Seng Chua and Marcelo H Ang Jr.
+Generating Expensive Relationship Features from Cheap Objects <br> 
+<b>Xiaogang Wang</b>, Qianru Sun, Tat-Seng Chua and Marcelo H Ang Jr. <b>BMVC 2019</b>.
 [[PDF]](https://bmvc2019.org/wp-content/uploads/papers/0657-paper.pdf) [[Code]](https://github.com/xiaogangw/Generating-Expensive-Relationship-Features-from-Cheap-Objects)
