@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 <!-- <p align="center">
   <img src="https://github.com/xiaogangw/xiaogangw.github.io/blob/master/files/wxg.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p> -->
