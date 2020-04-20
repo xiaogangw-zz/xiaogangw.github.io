@@ -24,7 +24,7 @@ redirect_from:
 * June, 2019. One paper accepted to BMVC 2019.
 
 <div class="container">
-<div class="row mb-3" style="padding-bottom: 25px;">
+  <div class="row mb-3" style="padding-bottom: 25px;">
 
   <div class="col-12 pt-3  px-4 pb-4   bubble offset-xl-1 col-xl-10" >
 
@@ -42,7 +42,7 @@ redirect_from:
         <b>Xiaogang Wang</b>, Marcelo H Ang Jr and Gim Hee Lee<br> 
         <em>To appear in CVPR</em>, 2020 <br> 
         <span class="links">
-        <a href="https://arxiv.org/pdf/2004.03327v1.pdf">Paper
+        <a href="https://arxiv.org/pdf/2004.03327v1.pdf">Paper</a>
         <a href="https://github.com/xiaogangw/cascaded-point-completion">Code</a>
         </span> <br> </p>
       </div>
@@ -52,7 +52,7 @@ redirect_from:
       <br>
       <div class="media-body">
         <p><strong>
-        Generating Expensive Relationship Features from Cheap Objects</a></strong>
+        Generating Expensive Relationship Features from Cheap Objects</strong>
         <!-- <span class="badge badge-danger">New!</span> -->
         <br>
         <b>Xiaogang Wang</b>, Qianru Sun, Tat-Seng Chua and Marcelo H Ang Jr<br> 
@@ -60,7 +60,7 @@ redirect_from:
         <span class="links">
         <a href="https://bmvc2019.org/wp-content/uploads/papers/0657-paper.pdf">Paper</a>
         <a href="https://github.com/xiaogangw/Generating-Expensive-Relationship-Features-from-Cheap-Objects">Code</a>
-        </span> </p>
+        </span> <br> </p>
       </div>
     </div>
 
