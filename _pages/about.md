@@ -40,7 +40,7 @@ redirect_from:
         <!-- <span class="badge badge-danger">New!</span> -->
         <br>
         <b>Xiaogang Wang</b>, Marcelo H Ang Jr and Gim Hee Lee
-        CVPR, 2020 <br> 
+        <em>CVPR<em>, 2020 <br> 
         <span class="links">
         <a href="https://arxiv.org/pdf/2004.03327v1.pdf">Paper</a>
         <a href="https://github.com/xiaogangw/cascaded-point-completion">Code</a>
@@ -56,7 +56,7 @@ redirect_from:
         <!-- <span class="badge badge-danger">New!</span> -->
         <br>
         <b>Xiaogang Wang</b>, Qianru Sun, Tat-Seng Chua and Marcelo H Ang Jr
-        BMVC, 2019<br>
+        <em>BMVC<em>, 2019<br>
         <span class="links">
         <a href="https://bmvc2019.org/wp-content/uploads/papers/0657-paper.pdf">Paper</a>
         <a href="https://github.com/xiaogangw/Generating-Expensive-Relationship-Features-from-Cheap-Objects">Code</a>
