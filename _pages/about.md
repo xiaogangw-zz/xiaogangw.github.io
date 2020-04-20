@@ -24,7 +24,7 @@ redirect_from:
 * June, 2019. One paper accepted to BMVC 2019.
 
 <div class="container">
-  <div class="row mb-3" style="padding-bottom: 25px;">
+  <div class="row mb-3" style="padding-bottom: 30px;">
 
   <div class="col-12 pt-3  px-4 pb-4   bubble offset-xl-1 col-xl-10" >
 
