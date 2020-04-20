@@ -40,7 +40,7 @@ redirect_from:
         <!-- <span class="badge badge-danger">New!</span> -->
         <br>
         <b>Xiaogang Wang</b>, Marcelo H Ang Jr and Gim Hee Lee<br> 
-        <em>To appear in CVPR</em>, 2020 <br> 
+        <em>CVPR</em>, 2020 <br> 
         <span class="links">
         <a href="https://arxiv.org/pdf/2004.03327v1.pdf">Paper</a>
         <a href="https://github.com/xiaogangw/cascaded-point-completion">Code</a>
