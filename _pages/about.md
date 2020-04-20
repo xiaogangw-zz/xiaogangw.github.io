@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/xiaogangw/xiaogangw.github.io/blob/master/files/wxg.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
+</p> -->
 
 # About Me
 * I am a Ph.D. student in the [National University of Singapore](http://www.nus.edu.sg/), advised by Prof. [Marcelo H Ang Jr](http://guppy.mpe.nus.edu.sg/~mpeangh/) and co-advised by Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/).
