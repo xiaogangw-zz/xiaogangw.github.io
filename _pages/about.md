@@ -19,10 +19,6 @@ redirect_from:
 * My research interests lie in the general area of deep learning and computer vision, particularly in 3D learning, generative modeling and image relationship detection.
 * I obtained my Master's degree in the Institute of Robotics at the Beihang University, supervised by Prof. [Guanghua Zong](https://baike.baidu.com/item/%E5%AE%97%E5%85%89%E5%8D%8E). I received my Bachelor's degree from the Mechanical Engineering at the University of Science & Technology Beijing.
 
-# Recent News
-* March, 2020. One paper accepted to CVPR 2020.
-* June, 2019. One paper accepted to BMVC 2019.
-
 <div class="container">
   <div class="row mb-3" style="padding-bottom: 30px;">
 
