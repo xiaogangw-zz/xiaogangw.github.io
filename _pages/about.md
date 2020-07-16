@@ -35,7 +35,7 @@ redirect_from:
         <!-- <span class="badge badge-danger">New!</span> -->
         <br>
         <b>Xiaogang Wang</b>, Marcelo H Ang Jr and Gim Hee Lee<br> 
-        <em>CVPR</em>, 2020 <br> 
+        <em>IROS</em>, 2020 <br> 
         <span class="links">
         <a href="">Paper</a>
         <a href="">Code</a>
