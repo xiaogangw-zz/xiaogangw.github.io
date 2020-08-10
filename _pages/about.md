@@ -37,7 +37,7 @@ redirect_from:
         <b>Xiaogang Wang</b>, Marcelo H Ang Jr and Gim Hee Lee<br> 
         <em>IROS</em>, 2020 <br> 
         <span class="links">
-        <a href="">Paper</a>
+        <a href="https://arxiv.org/abs/2008.00394">Paper</a>
         <a href="">Code</a>
         </span> <br> </p>
       </div>
