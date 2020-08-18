@@ -38,7 +38,7 @@ redirect_from:
         <em>IROS</em>, 2020 <br> 
         <span class="links">
         <a href="https://arxiv.org/abs/2008.00394">Paper</a>
-        <a href="">Code</a>
+        <a href="https://github.com/xiaogangw/point-cloud-completion-shape-prior">Code</a>
         </span> <br> </p>
       </div>
     </div>
