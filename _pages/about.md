@@ -15,7 +15,7 @@ redirect_from:
 </p> -->
 
 # About Me
-* I am a fourth-year Ph.D. student at the [National University of Singapore](http://www.nus.edu.sg/) and my Ph.D work are done in the [Advanced Robotics Centre](https://arc.nus.edu.sg/). I'm advised by Prof. [Marcelo H Ang Jr](http://guppy.mpe.nus.edu.sg/~mpeangh/) and co-advised by Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/).
+* I am a fourth-year Ph.D. student at the Mechanical Engineering of [National University of Singapore](http://www.nus.edu.sg/). I'm advised by Prof. [Marcelo H Ang Jr](http://guppy.mpe.nus.edu.sg/~mpeangh/) and co-advised by Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/).
 * My research interests lie in the general area of deep learning and computer vision, particularly in 3D learning, generative modeling and image relationship detection.
 <!--* I obtained my Master's degree in the Institute of Robotics at the Beihang University, supervised by Prof. [Guanghua Zong](https://baike.baidu.com/item/%E5%AE%97%E5%85%89%E5%8D%8E). I received my Bachelor's degree from the Mechanical Engineering at the University of Science & Technology Beijing.-->
 
