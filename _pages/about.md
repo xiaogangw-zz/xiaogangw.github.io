@@ -31,6 +31,20 @@ redirect_from:
     <div class="publication media">
       <div class="media-body">
         <p>
+        <strong> A Self-supervised Cascaded Refinement Network for Point Cloud Completion</strong>
+        <!-- <span class="badge badge-danger">New!</span> -->
+        <br>
+        <b>Xiaogang Wang</b>, Marcelo H Ang Jr and Gim Hee Lee<br> 
+        <em>IROS</em>, 2020 <br> 
+        <span class="links">
+        <a href="https://arxiv.org/abs/2010.08719">Paper</a>
+        </span> <br> </p>
+      </div>
+    </div>
+    
+    <div class="publication media">
+      <div class="media-body">
+        <p>
         <strong>Point Cloud Completion by Learning Shape Priors</strong>
         <!-- <span class="badge badge-danger">New!</span> -->
         <br>
