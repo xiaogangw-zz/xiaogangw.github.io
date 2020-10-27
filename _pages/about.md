@@ -35,7 +35,7 @@ redirect_from:
         <!-- <span class="badge badge-danger">New!</span> -->
         <br>
         <b>Xiaogang Wang</b>, Marcelo H Ang Jr and Gim Hee Lee<br> 
-        <em>arXiv <br> 
+        <em>arXiv</em>, 2020 <br> 
         <span class="links">
         <a href="https://arxiv.org/abs/2010.08719">Paper</a>
         </span> <br> </p>
